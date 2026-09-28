@@ -6,6 +6,8 @@ This repository contains statistical testing centered on A/B testing and Multiva
 
 Each dataset analysis will have their individual notebooks for reading.
 
+![PowerBI Dashboard on Dataset 2 - Fast Food Promotions](graphics/ab-dashboard.png)
+
 ## 🎯 **Objectives:**
 | Dataset | Question/Goal |
 |----------|----------------|
@@ -18,7 +20,6 @@ Each dataset analysis will have their individual notebooks for reading.
 | Cookie Cats Retention | Recommended for the development team to keep the first checkpoint at **Gate 30** (Control Group). |
 | Fast Food Promotions | **Promotion 1** sees the highest median sales among the three promotions. |
 
-![Looker Studio Pie Chart](graphics/ab-dashboard.png)
 
 
 ## 📊 Introductory Report (Looker Studio)
