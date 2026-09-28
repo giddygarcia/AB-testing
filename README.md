@@ -18,6 +18,8 @@ Each dataset analysis will have their individual notebooks for reading.
 | Cookie Cats Retention | Recommended for the development team to keep the first checkpoint at **Gate 30** (Control Group). |
 | Fast Food Promotions | **Promotion 1** sees the highest median sales among the three promotions. |
 
+![Looker Studio Pie Chart](graphics/ab-dashboard.png)
+
 
 ## 📊 Introductory Report (Looker Studio)
 The 2nd dataset on Fast Food Marketing can be accompanied by an introductory [Looker Studio Report](https://lookerstudio.google.com/s/pzXi02x76aM) on the data.
